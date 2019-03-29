@@ -1,0 +1,9 @@
+C:\Users\01ste\Google Drive\VisualStudio\Övning 11.5\Övning 11.5\Övning 11.5\bin\Debug\Övning 11.5.exe.config
+C:\Users\01ste\Google Drive\VisualStudio\Övning 11.5\Övning 11.5\Övning 11.5\bin\Debug\Övning 11.5.exe
+C:\Users\01ste\Google Drive\VisualStudio\Övning 11.5\Övning 11.5\Övning 11.5\bin\Debug\Övning 11.5.pdb
+C:\Users\01ste\Google Drive\VisualStudio\Övning 11.5\Övning 11.5\Övning 11.5\obj\Debug\Övning 11.5.csprojAssemblyReference.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 11.5\Övning 11.5\Övning 11.5\obj\Debug\Övning_11._5.Properties.Resources.resources
+C:\Users\01ste\Google Drive\VisualStudio\Övning 11.5\Övning 11.5\Övning 11.5\obj\Debug\Övning 11.5.csproj.GenerateResource.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 11.5\Övning 11.5\Övning 11.5\obj\Debug\Övning 11.5.csproj.CoreCompileInputs.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 11.5\Övning 11.5\Övning 11.5\obj\Debug\Övning 11.5.exe
+C:\Users\01ste\Google Drive\VisualStudio\Övning 11.5\Övning 11.5\Övning 11.5\obj\Debug\Övning 11.5.pdb

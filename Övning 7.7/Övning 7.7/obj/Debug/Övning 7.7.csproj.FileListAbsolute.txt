@@ -1,0 +1,10 @@
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.7\Övning 7.7\Övning 7.7\bin\Debug\Övning 7.7.exe.config
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.7\Övning 7.7\Övning 7.7\bin\Debug\Övning 7.7.exe
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.7\Övning 7.7\Övning 7.7\bin\Debug\Övning 7.7.pdb
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.7\Övning 7.7\Övning 7.7\obj\Debug\Övning 7.7.csprojAssemblyReference.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.7\Övning 7.7\Övning 7.7\obj\Debug\Övning_7._7.Form1.resources
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.7\Övning 7.7\Övning 7.7\obj\Debug\Övning_7._7.Properties.Resources.resources
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.7\Övning 7.7\Övning 7.7\obj\Debug\Övning 7.7.csproj.GenerateResource.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.7\Övning 7.7\Övning 7.7\obj\Debug\Övning 7.7.csproj.CoreCompileInputs.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.7\Övning 7.7\Övning 7.7\obj\Debug\Övning 7.7.exe
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.7\Övning 7.7\Övning 7.7\obj\Debug\Övning 7.7.pdb

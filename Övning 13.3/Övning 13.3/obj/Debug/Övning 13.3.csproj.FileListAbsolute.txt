@@ -1,0 +1,9 @@
+C:\Users\01ste\Google Drive\VisualStudio\Övning 13.3\Övning 13.3\Övning 13.3\bin\Debug\Övning 13.3.exe.config
+C:\Users\01ste\Google Drive\VisualStudio\Övning 13.3\Övning 13.3\Övning 13.3\bin\Debug\Övning 13.3.exe
+C:\Users\01ste\Google Drive\VisualStudio\Övning 13.3\Övning 13.3\Övning 13.3\bin\Debug\Övning 13.3.pdb
+C:\Users\01ste\Google Drive\VisualStudio\Övning 13.3\Övning 13.3\Övning 13.3\obj\Debug\Övning_13._3.Form1.resources
+C:\Users\01ste\Google Drive\VisualStudio\Övning 13.3\Övning 13.3\Övning 13.3\obj\Debug\Övning_13._3.Properties.Resources.resources
+C:\Users\01ste\Google Drive\VisualStudio\Övning 13.3\Övning 13.3\Övning 13.3\obj\Debug\Övning 13.3.csproj.GenerateResource.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 13.3\Övning 13.3\Övning 13.3\obj\Debug\Övning 13.3.csproj.CoreCompileInputs.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 13.3\Övning 13.3\Övning 13.3\obj\Debug\Övning 13.3.exe
+C:\Users\01ste\Google Drive\VisualStudio\Övning 13.3\Övning 13.3\Övning 13.3\obj\Debug\Övning 13.3.pdb

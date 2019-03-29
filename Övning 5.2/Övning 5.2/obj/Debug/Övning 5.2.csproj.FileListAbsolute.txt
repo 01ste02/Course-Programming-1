@@ -1,0 +1,10 @@
+C:\Users\01ste\Google Drive\VisualStudio\Övning 5.2\Övning 5.2\Övning 5.2\bin\Debug\Övning 5.2.exe.config
+C:\Users\01ste\Google Drive\VisualStudio\Övning 5.2\Övning 5.2\Övning 5.2\bin\Debug\Övning 5.2.exe
+C:\Users\01ste\Google Drive\VisualStudio\Övning 5.2\Övning 5.2\Övning 5.2\bin\Debug\Övning 5.2.pdb
+C:\Users\01ste\Google Drive\VisualStudio\Övning 5.2\Övning 5.2\Övning 5.2\obj\Debug\Övning 5.2.csprojAssemblyReference.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 5.2\Övning 5.2\Övning 5.2\obj\Debug\Övning_5._2.Form1.resources
+C:\Users\01ste\Google Drive\VisualStudio\Övning 5.2\Övning 5.2\Övning 5.2\obj\Debug\Övning_5._2.Properties.Resources.resources
+C:\Users\01ste\Google Drive\VisualStudio\Övning 5.2\Övning 5.2\Övning 5.2\obj\Debug\Övning 5.2.csproj.GenerateResource.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 5.2\Övning 5.2\Övning 5.2\obj\Debug\Övning 5.2.csproj.CoreCompileInputs.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 5.2\Övning 5.2\Övning 5.2\obj\Debug\Övning 5.2.exe
+C:\Users\01ste\Google Drive\VisualStudio\Övning 5.2\Övning 5.2\Övning 5.2\obj\Debug\Övning 5.2.pdb

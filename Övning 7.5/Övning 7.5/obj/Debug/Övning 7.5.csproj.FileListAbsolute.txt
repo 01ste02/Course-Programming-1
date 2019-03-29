@@ -1,0 +1,9 @@
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.5\Övning 7.5\Övning 7.5\bin\Debug\Övning 7.5.exe.config
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.5\Övning 7.5\Övning 7.5\bin\Debug\Övning 7.5.exe
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.5\Övning 7.5\Övning 7.5\bin\Debug\Övning 7.5.pdb
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.5\Övning 7.5\Övning 7.5\obj\Debug\Övning_7._5.Form1.resources
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.5\Övning 7.5\Övning 7.5\obj\Debug\Övning_7._5.Properties.Resources.resources
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.5\Övning 7.5\Övning 7.5\obj\Debug\Övning 7.5.csproj.GenerateResource.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.5\Övning 7.5\Övning 7.5\obj\Debug\Övning 7.5.csproj.CoreCompileInputs.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.5\Övning 7.5\Övning 7.5\obj\Debug\Övning 7.5.exe
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.5\Övning 7.5\Övning 7.5\obj\Debug\Övning 7.5.pdb

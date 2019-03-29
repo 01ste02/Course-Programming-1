@@ -1,0 +1,10 @@
+C:\Users\01ste\Google Drive\VisualStudio\Övning 9.10\Övning 9.10\Övning 9.10\obj\Debug\Övning 9.10.csprojAssemblyReference.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 9.10\Övning 9.10\Övning 9.10\obj\Debug\Övning_9._10.Form1.resources
+C:\Users\01ste\Google Drive\VisualStudio\Övning 9.10\Övning 9.10\Övning 9.10\obj\Debug\Övning_9._10.Properties.Resources.resources
+C:\Users\01ste\Google Drive\VisualStudio\Övning 9.10\Övning 9.10\Övning 9.10\obj\Debug\Övning 9.10.csproj.GenerateResource.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 9.10\Övning 9.10\Övning 9.10\obj\Debug\Övning 9.10.csproj.CoreCompileInputs.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 9.10\Övning 9.10\Övning 9.10\bin\Debug\Övning 9.10.exe.config
+C:\Users\01ste\Google Drive\VisualStudio\Övning 9.10\Övning 9.10\Övning 9.10\bin\Debug\Övning 9.10.exe
+C:\Users\01ste\Google Drive\VisualStudio\Övning 9.10\Övning 9.10\Övning 9.10\bin\Debug\Övning 9.10.pdb
+C:\Users\01ste\Google Drive\VisualStudio\Övning 9.10\Övning 9.10\Övning 9.10\obj\Debug\Övning 9.10.exe
+C:\Users\01ste\Google Drive\VisualStudio\Övning 9.10\Övning 9.10\Övning 9.10\obj\Debug\Övning 9.10.pdb

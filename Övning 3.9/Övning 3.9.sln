@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Övning 3.9", "Övning 3.9\Övning 3.9.csproj", "{EBC19B59-F8E0-49F3-A69C-994C67A5472F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC19B59-F8E0-49F3-A69C-994C67A5472F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC19B59-F8E0-49F3-A69C-994C67A5472F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC19B59-F8E0-49F3-A69C-994C67A5472F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC19B59-F8E0-49F3-A69C-994C67A5472F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B46B2EBE-BC3B-440A-8861-398EE675B992}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.6\Övning 7.6\Övning 7.6\bin\Debug\Övning 7.6.exe.config
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.6\Övning 7.6\Övning 7.6\bin\Debug\Övning 7.6.exe
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.6\Övning 7.6\Övning 7.6\bin\Debug\Övning 7.6.pdb
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.6\Övning 7.6\Övning 7.6\obj\Debug\Övning_7._6.Form1.resources
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.6\Övning 7.6\Övning 7.6\obj\Debug\Övning_7._6.Properties.Resources.resources
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.6\Övning 7.6\Övning 7.6\obj\Debug\Övning 7.6.csproj.GenerateResource.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.6\Övning 7.6\Övning 7.6\obj\Debug\Övning 7.6.csproj.CoreCompileInputs.cache
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.6\Övning 7.6\Övning 7.6\obj\Debug\Övning 7.6.exe
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.6\Övning 7.6\Övning 7.6\obj\Debug\Övning 7.6.pdb
+C:\Users\01ste\Google Drive\VisualStudio\Övning 7.6\Övning 7.6\Övning 7.6\obj\Debug\Övning 7.6.csprojAssemblyReference.cache
